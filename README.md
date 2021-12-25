@@ -1,13 +1,14 @@
-# Boilerplate for Projects on GitHub
-
-This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
+# Freight: A Custom CSGO 5v5 Defusal Map 
 
 <br>
 
 ## Summary
- - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
- - This template will expedite the creation and maintenance of all my various projects' repositories.
- - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
+ - This map takes place on an abandoned ship yard, full of empty freight containers stacked several high, forming large valleys with only two large cranes poking above the looming walls of containers.  
+ - Both sites for this map are centered around these two cranes which make for interesting site layouts, as well as making navigating to both sites intuitive from nearly anywhere on the map by just looking up. 
+ - The true uniqueness of this map comes from the abnormally high number of different paths to and from each site. 
+   - This can easily become unwieldy, making it nearly impossible to predict how the enemy will arrive at the site, thus making defending the sites a nightmare to defend against.
+   - To balance this, there is an explicit risk vs reward for each pathway.
+ - This project has been inactive on the backburner for about a year, but will be picked back up during spring of '22.    
 
 <br>
 
@@ -27,8 +28,7 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 
 ## Project Metadata
 
-**Project Status** : (Active, Inactive, Archived)  
-**Project Progress** : (Concept, In Progress, Functional, Completed)
+**Project Status** : Inactive   
+**Project Progress** : Functional
 
-**Start date** : MM/YY or N/A  
-**End date** : MM/YY or N/A  
+**Project Dates** : 
