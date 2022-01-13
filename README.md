@@ -1,4 +1,5 @@
 # Freight: A Custom CSGO 5v5 Defusal Map 
+Map That I Built From Scratch for Counter-Strike Global Offensive
 
 <br>
 
@@ -14,9 +15,32 @@
 
 ## Image Gallery
 
-### Placeholder Image (This is the image's caption
-/label)
-![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please%20replace%20me%20I%20am%20begging%20you.jpg)
+### 2nd Mid - Connecting T-Spawn & Mid to A-Site
+![2nd mid](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/2nd_mid.jpg)
+
+<br>
+
+### T-Side View of Mid 
+![t-side mid](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/t_mid.jpg)
+
+<br>
+
+### Side View of A-Site
+![a-site](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/a_site.jpg)
+
+<br>
+
+### B-Site 
+![b-site](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/b_site.jpg)
+
+<br>
+
+### T-Side of B Mid (Area before B-Site)
+![t_side_b_mid](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/t_side_b_mid.jpg)
+
+<br>
+
+
 <br>
 
 <!-- 
