@@ -56,4 +56,4 @@ Map That I Built From Scratch for Counter-Strike Global Offensive
 **Project Status** : Inactive   
 **Project Progress** : Functional
 
-**Project Dates** : 
+**Project Dates** : Nov' 20 - Dec '20
