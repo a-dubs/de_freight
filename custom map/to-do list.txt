@@ -1,0 +1,21 @@
+to do / fix:
+- add light to hut
+- remove hut window - make open doorframe
+- add wall/fence next to garage to obstruct vision into CT-Spawn from A
+- make all connector windows slightly taller to make crawling through faster
+- fix cheeky peek around hut
+- block off dark corners/caves in Mid-B crate walls
+- clip off enterance into Mid minivan
+- add jump up to A site from T-Side of site (put as far away from suicide as possible)
+- fix vents enterance at B site
+- fix vents latter at B site
+- add clippings for bathrooms' roof
+- remove walkway next to hut
+- fix porta potty doors at A site (wait til V1.2)
+
+potential ideas / general suggestions:
+- make mid narrower (would allow for more effective smoking off)
+- lessen number of hiding spots at A-site
+- make it easier for CTs to hold suicide
+- add cover for Mid->B enterance for retakes
+- make second mid more powerful? or is that unneccessary since it already gives full T-Side A control?
